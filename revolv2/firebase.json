@@ -1,0 +1,28 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "revolv-ddc8f",
+          "appId": "1:415166631789:android:ca83f665fb9ee858951464",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "revolv-ddc8f",
+          "configurations": {
+            "android": "1:415166631789:android:ca83f665fb9ee858951464",
+            "web": "1:415166631789:web:fb2a0a7f280205f0951464"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "database": "(default)",
+    "location": "nam5",
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}

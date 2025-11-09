@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415166631789",
+    "project_id": "revolv-ddc8f",
+    "storage_bucket": "revolv-ddc8f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415166631789:android:ca83f665fb9ee858951464",
+        "android_client_info": {
+          "package_name": "com.example.revolv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsWwHkNsRM-N_X7YSZAgsFiCpq-h-y0m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
